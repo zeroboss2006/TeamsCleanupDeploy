@@ -1,4 +1,4 @@
-# Teams Cleanup and Deploy
+# Microsoft Teams Cleanup and Deploy
 
 這個專案包含兩個 PowerShell 腳本，用於清理和重新部署 Microsoft Teams。
 
